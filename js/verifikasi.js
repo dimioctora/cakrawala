@@ -93,7 +93,7 @@ function verifySlipCode(code) {
 
     // Simulate Network Latency for a premium "Scanning/Validating" UX
     setTimeout(() => {
-        fetch('data/slips.json')
+        fetch('data/slips.json?v=' + Date.now())
             .then(response => {
                 if (!response.ok) {
                     throw new Error('Gagal mengambil database verifikasi.');
