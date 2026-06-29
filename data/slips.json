@@ -86,5 +86,50 @@
     "thp": "Rp 30.000.000,00",
     "bank": "BNI",
     "rekening": "1921006248"
+  },
+  {
+    "code": "CPA-091218-202606",
+    "employeeId": "CPA-091218",
+    "name": "INDRI MEILINDA",
+    "position": "General Manager",
+    "period": "June 2026",
+    "status": "VALID",
+    "thp": "Rp 100.000.000,00",
+    "bank": "BCA",
+    "rekening": "568 128 2239"
+  },
+  {
+    "code": "CPA-091219-202606",
+    "employeeId": "CPA-0270117",
+    "name": "EMMA MARIAAMINA HUTAGAOL",
+    "position": "Direktur",
+    "period": "June 2026",
+    "status": "VALID",
+    "thp": "Rp 75.000.000,00",
+    "bank": "Mandiri",
+    "rekening": "101-00-05140635"
+  },
+  {
+    "code": "CPA-091220-202606",
+    "employeeId": "CPA-230221",
+    "name": "SITI MULIYAH",
+    "position": "Head Supervisor",
+    "period": "June 2026",
+    "status": "VALID",
+    "thp": "Rp 25.000.000,00",
+    "bank": "CIMB NIAGA",
+    "rekening": "708 826 124800"
+  },
+  {
+    "code": "CPA-091221-202606",
+    "employeeId": "CPA-270223",
+    "name": "SALSA IZZA SABILA",
+    "position": "Manager",
+    "period": "June 2026",
+    "status": "VALID",
+    "thp": "Rp 30.000.000,00",
+    "bank": "BNI",
+    "rekening": "1921006248"
   }
 ]
+
