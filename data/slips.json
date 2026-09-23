@@ -229,5 +229,71 @@
     "thp": "Rp 50.000.000,00",
     "bank": "BNI",
     "rekening": "1921006248"
+  },
+  {
+    "code": "CPA-2203112-202606",
+    "employeeId": "CPA-2203112",
+    "name": "IR NATALIUS L. TOBING",
+    "position": "Senior Manager",
+    "period": "Juni 2026",
+    "status": "VALID",
+    "thp": "Rp 50.000.000,00",
+    "bank": "BCA",
+    "rekening": "4580284146"
+  },
+  {
+    "code": "CPA-091222-202606",
+    "employeeId": "CPA-2203112",
+    "name": "IR NATALIUS L. TOBING",
+    "position": "Senior Manager",
+    "period": "Juni 2026",
+    "status": "VALID",
+    "thp": "Rp 50.000.000,00",
+    "bank": "BCA",
+    "rekening": "4580284146"
+  },
+  {
+    "code": "CPA-2203112-202607",
+    "employeeId": "CPA-2203112",
+    "name": "IR NATALIUS L. TOBING",
+    "position": "Senior Manager",
+    "period": "Juli 2026",
+    "status": "VALID",
+    "thp": "Rp 50.000.000,00",
+    "bank": "BCA",
+    "rekening": "4580284146"
+  },
+  {
+    "code": "CPA-091222-202607",
+    "employeeId": "CPA-2203112",
+    "name": "IR NATALIUS L. TOBING",
+    "position": "Senior Manager",
+    "period": "Juli 2026",
+    "status": "VALID",
+    "thp": "Rp 50.000.000,00",
+    "bank": "BCA",
+    "rekening": "4580284146"
+  },
+  {
+    "code": "CPA-2203112-202608",
+    "employeeId": "CPA-2203112",
+    "name": "IR NATALIUS L. TOBING",
+    "position": "Senior Manager",
+    "period": "August 2026",
+    "status": "VALID",
+    "thp": "Rp 50.000.000,00",
+    "bank": "BCA",
+    "rekening": "4580284146"
+  },
+  {
+    "code": "CPA-091222-202608",
+    "employeeId": "CPA-2203112",
+    "name": "IR NATALIUS L. TOBING",
+    "position": "Senior Manager",
+    "period": "August 2026",
+    "status": "VALID",
+    "thp": "Rp 50.000.000,00",
+    "bank": "BCA",
+    "rekening": "4580284146"
   }
 ]
